@@ -14,11 +14,11 @@ Predict real estate property prices based on features such as location, area, nu
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
-4. Model Training (Linear Regression, Random Forest)
+4. Model Training (Linear Regression, Decision Tree)
 5. Model Evaluation using RMSE and R²
 
 ## Results
-The Random Forest model achieved better prediction accuracy compared to Linear Regression.
+The Linear Regression model achieved better prediction accuracy compared to Decision Tree model.
 
 ## Future Improvements
 The model can be integrated into a web application for real-time price prediction.
